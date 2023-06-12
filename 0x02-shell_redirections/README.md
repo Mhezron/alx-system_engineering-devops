@@ -1,1 +1,2 @@
-Shell script to print hello world 
+#0x02 shell redirection
+ Hello, World
